@@ -19,6 +19,8 @@ group :test do
   gem 'capybara', '2.1.0'
 end
 
+# Convert bootstrap LESS CSS to SASS for Rails
+gem 'bootstrap-sass', '2.3.2.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
